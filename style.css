@@ -1,0 +1,29 @@
+/* nav */
+nav{ 
+    flex-shrink: inherit;
+  display: inline;
+}
+/* titre */
+h1{
+    font-family: roboto;
+}
+/* arriere plan */
+body{
+    background-image: url(./image/Gojo\ Satoru.jpeg);
+    background-repeat: no-repeat;
+}
+/* class */
+.first{
+    color:white;
+}
+p{
+    color: blue;
+}
+    
+
+    
+
+    
+
+
+    
